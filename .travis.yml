@@ -12,6 +12,7 @@ os:
   - linux
   - linux-ppc64le
   - osx
+
 osx_image: xcode9.1
 compiler:
   - gcc
